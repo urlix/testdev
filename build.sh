@@ -6,3 +6,5 @@ g++ -g -std=c++11 test.cpp
 #
 
 cat data | ./a.out
+
+#some fake comment
